@@ -1,3 +1,5 @@
 this is my first file  to chk git commands
 
 updated in remote repo
+
+hi there
