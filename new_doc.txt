@@ -1,3 +1,7 @@
 this is my first file  to chk git commands
 
+<<<<<<< HEAD
 checking push command
+=======
+updated in remote repo
+>>>>>>> 8b4f04484cb20ec8b7377dc23f4a16fe32355b37
